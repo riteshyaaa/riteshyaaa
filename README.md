@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm I'm Ritesh Yadav - A Fullstack developer</h1>
-<h3 align="center"></h3>
 <img src="https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/master/assets/github-snake-dark.svg" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riteshyaaa&label=Profile%20views&color=0e75b6&style=flat" alt="riteshyaaa" /> </p>
 
