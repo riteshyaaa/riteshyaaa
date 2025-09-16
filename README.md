@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Ritesh Yadav</h1>
 <h3 align="center">Highly motivated individual with keen interest in learning new technologies.</h3>
 <!-- <img src="https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/master/assets/github-snake-dark.svg" /> -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=riteshyaaa&label=Profile%20views&color=0e75b6&style=flat" alt="riteshyaaa" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=riteshyaaa&label=Profile%20views&color=0e75b6&style=flat" alt="riteshyaaa" /> </p>
 
-
+ -->
 - 🔭 I’m currently working on my **Problem Solving Skills**
 
 - 🌱 I’m currently getting better at **Typescript & NextJS**
